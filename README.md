@@ -1,2 +1,3 @@
-# jyli47-3D-visualization
-Simple bridges between 2D GIS and 3D visualization
+# UBC Sailing Forward
+Immersive Reality Visualization
+For Lab3, 
