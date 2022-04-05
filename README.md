@@ -15,5 +15,7 @@ UBC Open datasets
 Past Assignment: Simple bridges between 2D GIS and 3D visualization
 
 Lab3 Immersive Reality Visualization
+
 Jyli47-3D-visualization @jyli47
+
 Cartographer: Jingyuan Li
