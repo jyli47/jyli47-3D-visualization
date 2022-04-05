@@ -9,16 +9,11 @@ To visualize the map as 3D gltf-model, I imported it to A-Frame. It shows the UB
 
 The most difficult part for of this lab was the a-entity 3D glft-model loading in the scene. The successful way is use URL directly, showing in the ImmusiveRealtiy.html. Another important thing I have learned was about relative position+ grouping entities in the Introduction to immersive & 3D via A-Frame.
 
-
 Date Sources:
-
 UBC Open datasets
-
 Past Assignment: Simple bridges between 2D GIS and 3D visualization
 
-
 Lab3 Immersive Reality Visualization
-
 Jyli47-3D-visualization @jyli47
-
 Cartographer: Jingyuan Li
+
