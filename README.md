@@ -13,6 +13,7 @@ The most difficult part for of this lab was the a-entity 3D glft-model loading i
 Date Sources:
 
 UBC Open datasets
+
 Past Assignment: Simple bridges between 2D GIS and 3D visualization
 
 
